@@ -1,0 +1,152 @@
+
+/* Home Page */
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.home-header {
+    background-color: black;
+}
+
+.index-title {
+    text-align: center;
+    color: yellow;
+    font-size: 3em;
+}
+
+.menu {
+    text-align: center;
+    border-bottom: 1px solid yellow;
+    font-size: 1.5;
+}
+
+.alan-img {
+    width: 300px;
+    float: left;
+    margin: 15px;
+}
+
+
+
+nav li {
+    display: inline;
+}
+
+nav a {
+    display: inline-block;
+    padding: 0.5em;
+}
+
+ul li a {
+    color: yellow;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    color: white;
+    background-color: #4ca69d;
+}
+
+.home-content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0, 1.5em;
+}
+
+/* Watchmen */
+
+.watch-body {
+    background-color: yellow;
+}
+ 
+
+.dr-img {
+     width: 900px;
+ }
+
+ .watchmen-title {
+    text-align: center;
+ }
+
+.watchmen-content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0, 1.5em;
+}
+
+.dave-content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0, 1.5em;
+}
+
+.dave-image {
+    width: 400px;
+    float: right;
+    padding: 10px;
+}
+.watchmen-header {
+    margin: 70px;
+}
+
+
+
+/* V for Vendetta */
+
+.v-body {
+    background-color: #8f7f71;
+}
+
+.v-header {
+    text-align: center;
+    margin: 70px;
+}
+
+.v-content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0, 1.5em;
+}
+
+.v-image {
+    height: 500px;
+    float: right;
+}
+
+.lloyd-image {
+    width: 400px;
+    float: left;
+    margin: 10px;
+}
+
+
+/* Swamp-Thing */
+
+.swamp-body {
+    background-color: #8bbf89;
+}
+
+.swamp-header {
+    text-align: center;
+    margin: 70px;
+}
+
+.swamp-image {
+    width: 400px;
+    float: right;
+    margin: 5px;
+}
+
+.swamp-content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0, 1.5em;
+}
+
+.stephen-img {
+    height: 300px;
+    float: left;
+    margin: 15px;
+}
